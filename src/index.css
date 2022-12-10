@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-gray: #212121;
+  --light-gray: #e0e0e0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
